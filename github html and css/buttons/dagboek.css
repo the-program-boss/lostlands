@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #0834ab;
+    color: #fff;
+}
+.home, .home2{
+    background:#0834ab;
+}
+a{
+    color: #ededed;
+
+}
+
+h3{
+    margin: 5px;
+    margin-bottom: 20px;
+}
+p{
+    margin: 2px;
+}
+p span{
+    font-size: 20px;
+    color: black;
+}
